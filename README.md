@@ -4,6 +4,8 @@
 
 Welcome to NETPI script. This is a basic networking toolkit. We will update it soon with many more networking related features.
 
+![](https://github.com/navjots7/NETPI-v1.01/blob/main/Intro.png)
+
 If you have any error please report it “issue” tab.
 
 > WE ARE NOT RESPONSIBLE HOW YOU ARE GOING TO USE THIS SCRIPT. PLEASE BE ETHICAL, LEGAL AND USE IT FOR EDUCATIONAL PURPOSES ONLY.WE ARE NOT RESPONSIBLE HOW YOU ARE GOING TO USE THIS SCRIPT. PLEASE BE ETHICAL, LEGAL AND USE IT FOR EDUCATIONAL PURPOSES ONLY.
@@ -11,12 +13,14 @@ If you have any error please report it “issue” tab.
 This script is for Kali Linux users only. This will make their lives a little bit easier and hassle free. 
 
 ## Features
-Right now the script has 6 features. All these tools are already present in Kali Linux. We just used them to make the task easier. If anyone wants to mention their credits for any of these scripts can contact us on the twitter handles or report it in the “issue” tab. We will check and update accordingly.
+![](https://github.com/navjots7/NETPI-v1.01/blob/main/Main.png)
+
+All these tools are already present in Kali Linux. We just used them to make the task easier. If anyone wants to mention their credits for any of these scripts can contact us on the twitter handles or report it in the “issue” tab. We will check and update accordingly.
 1. IP Address
 2. MAC Address
 3. Turn off the interface
 4. Gateway IP
-5. whois
+5. Whois
 6. Hostname
 
 ## Installation
