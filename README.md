@@ -13,7 +13,10 @@ If you have any error please report it “issue” tab.
 This script is for Kali Linux users only. This will make their lives a little bit easier and hassle free. 
 
 ## Features
+
+
 ![](https://github.com/navjots7/NETPI-v1.01/blob/main/Main.png)
+
 
 All these tools are already present in Kali Linux. We just used them to make the task easier. If anyone wants to mention their credits for any of these scripts can contact us on the twitter handles or report it in the “issue” tab. We will check and update accordingly.
 1. IP Address
